@@ -1,5 +1,5 @@
 # Local-Language-Assistance
-SMS service to help you communicate in unfamiliar languages
+SMS service to help you communicate in unfamiliar languages. Created for ConUHacks IV.
 
 **Local Language Assistance (LLA for short)** allows for people seeking help with the local language to be able to ask simple questions such as how to order a coffee at Tim Horton's and get fast responses from people fluent in the language.
 
